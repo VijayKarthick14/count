@@ -1,0 +1,41 @@
+Beginner Practice Set
+Print first character of a string.
+Print last character of a string.
+Find length of a string.
+Count vowels.
+Count consonants.
+Reverse a string.
+Check palindrome.
+Count spaces.
+Count digits.
+Convert lowercase to uppercase.
+Convert uppercase to lowercase.
+Find first occurrence of a character.
+Find last occurrence of a character.
+Remove spaces from a string.
+Count words in a sentence.
+Intermediate Placement Questions
+Reverse words in a sentence.
+Longest common prefix.
+Valid palindrome.
+Check anagram.
+First non-repeating character.
+String compression.
+Longest substring without repeating characters.
+Find all substrings.
+Group anagrams.
+KMP Pattern Matching.
+Study Order
+length()
+charAt()
+Loops on Strings
+equals()
+substring()
+indexOf()
+replace()
+split()
+Reverse String
+Palindrome
+Anagram
+StringBuilder
+Advanced LeetCode String Problems
